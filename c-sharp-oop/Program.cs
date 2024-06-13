@@ -35,6 +35,16 @@ namespace c_sharp_fundamentals
             donkey.animalSound();
             dog.animalSound();
             cat.animalSound();
+
+            try
+            {
+                Console.WriteLine(donkey.array[10]);
+                // Console.WriteLine(donkey.array[0]);
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
             
             Console.ReadKey();
         }

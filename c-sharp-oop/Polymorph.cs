@@ -2,6 +2,8 @@ namespace c_sharp_fundamentals;
 
 public class Animal
 {
+    public string[] array = { "zebra", "domestic" };
+
     public virtual void animalSound()
     {
         Console.WriteLine("This animal makes a sound");
