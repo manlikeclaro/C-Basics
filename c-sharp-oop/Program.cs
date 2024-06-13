@@ -16,6 +16,7 @@ namespace c_sharp_fundamentals
 
             Console.WriteLine(Ford.model);
             Console.WriteLine(Opel.model);
+            Opel.Honk();
 
             Console.WriteLine("Enter the name of the car: ");
             string name = Console.ReadLine();

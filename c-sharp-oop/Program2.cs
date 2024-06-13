@@ -1,6 +1,6 @@
 namespace c_sharp_fundamentals;
 
-class Car
+class Car : Vehicle
 {
     public string model;
     public string color;

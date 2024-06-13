@@ -12,3 +12,4 @@ C:\Users\ckibi\RiderProjects\c-sharp-oop\c-sharp-oop\obj\Debug\net8.0\refint\c-s
 C:\Users\ckibi\RiderProjects\c-sharp-oop\c-sharp-oop\obj\Debug\net8.0\c-sharp-oop.pdb
 C:\Users\ckibi\RiderProjects\c-sharp-oop\c-sharp-oop\obj\Debug\net8.0\c-sharp-oop.genruntimeconfig.cache
 C:\Users\ckibi\RiderProjects\c-sharp-oop\c-sharp-oop\obj\Debug\net8.0\ref\c-sharp-oop.dll
+C:\Users\ckibi\RiderProjects\c-sharp-oop\c-sharp-oop\obj\Debug\net8.0\c-sharp-oop.sourcelink.json
