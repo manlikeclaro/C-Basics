@@ -8,27 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ckibi\\.nuget\\packages\\": {}
+    "C:\\Users\\Bartai\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ckibi\\RiderProjects\\c-sharp-oop\\c-sharp-oop\\c-sharp-oop.csproj",
+      "projectUniqueName": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\c-sharp-oop.csproj",
       "projectName": "c-sharp-oop",
-      "projectPath": "C:\\Users\\ckibi\\RiderProjects\\c-sharp-oop\\c-sharp-oop\\c-sharp-oop.csproj",
-      "packagesPath": "C:\\Users\\ckibi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ckibi\\RiderProjects\\c-sharp-oop\\c-sharp-oop\\obj\\",
+      "projectPath": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\c-sharp-oop.csproj",
+      "packagesPath": "C:\\Users\\Bartai\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ckibi\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\Bartai\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -41,6 +38,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -62,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\Bartai\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
