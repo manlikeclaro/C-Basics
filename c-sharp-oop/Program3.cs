@@ -1,6 +1,6 @@
 namespace c_sharp_fundamentals;
 
-class CarTwo
+class CarTwo : Vehicle
 {
     private string name;
     public string make;

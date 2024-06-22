@@ -8,25 +8,35 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Bartai\\.nuget\\packages\\": {}
+    "C:\\Users\\SoftClansUser\\.nuget\\packages\\": {},
+    "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\c-sharp-oop.csproj",
+      "projectUniqueName": "C:\\Users\\SoftClansUser\\Desktop\\Personal\\project source code\\csharp-basics\\c-sharp-oop\\c-sharp-oop.csproj",
       "projectName": "c-sharp-oop",
-      "projectPath": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\c-sharp-oop.csproj",
-      "packagesPath": "C:\\Users\\Bartai\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bartai\\Desktop\\csharp-projects\\c-sharp-fundamentals\\c-sharp-oop\\obj\\",
+      "projectPath": "C:\\Users\\SoftClansUser\\Desktop\\Personal\\project source code\\csharp-basics\\c-sharp-oop\\c-sharp-oop.csproj",
+      "packagesPath": "C:\\Users\\SoftClansUser\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\SoftClansUser\\Desktop\\Personal\\project source code\\csharp-basics\\c-sharp-oop\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Bartai\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\SoftClansUser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\DevExpress 22.1\\Components\\System\\Components\\Packages": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget-core.seaburymro.com/info": {}
       },
       "frameworks": {
         "net8.0": {
@@ -38,11 +48,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Bartai\\.dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

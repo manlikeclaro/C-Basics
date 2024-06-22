@@ -24,4 +24,9 @@ public class Cat : Animal
     {
         Console.WriteLine("This animal meows! meow meow!");
     }
+
+    public void catBehaviour()
+    {
+        Console.WriteLine($"This cat is also a {array[0]}");
+    }
 }

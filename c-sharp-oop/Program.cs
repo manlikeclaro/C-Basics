@@ -17,13 +17,17 @@ namespace c_sharp_fundamentals
             Animal dog = new Dog();
             Animal cat = new Cat();
 
+            Cat momo = new Cat();
+
             try
             {
                 donkey.animalSound();
                 dog.animalSound();
                 cat.animalSound();
+                momo.catBehaviour();
 
                 car.carFunc();
+                car.Honk();
                 // Console.WriteLine(donkey.array[10]);
 
             }
